@@ -7,6 +7,7 @@
 
 ---
 
+## Requirements :
 
 1. **Download Python 3**: Make sure you have Python 3 installed. You can download it from [python.org](https://www.python.org/downloads/).
 
