@@ -7,6 +7,18 @@
 
 ---
 
+
+1. **Download Python 3**: Make sure you have Python 3 installed. You can download it from [python.org](https://www.python.org/downloads/).
+
+2. **Download and Run Jupyter Notebook**:
+   - Download and install Python 3.
+   - Open your terminal.
+   - Enter the command `jupyter notebook` to launch Jupyter Notebook.
+   
+   Note: If you haven't installed Jupyter Notebook, you can do so by running `pip install jupyter` in your terminal.
+
+---
+
 ### Cell 1: 
 You load a dataset and display the first few rows to get an initial sense of the data.
 
